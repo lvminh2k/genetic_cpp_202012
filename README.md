@@ -13,8 +13,8 @@ https://www.facebook.com/vanminh.le.73/
 https://google.github.io/styleguide/cppguide.html
 ### Example
 http://www.cs.cmu.edu/~410/doc/doxygen.html
-### Database for project
-https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+### Project information
+https://drive.google.com/file/d/1nBZ4GLQ8WO23-gtoaX5TGVJ6nn5pMdgf/view?usp=sharing
 ### Most popular programming languages (2020)
 https://www.youtube.com/watch?v=UNSoPa-XQN0
 ### Book c++ in Vietnamese
