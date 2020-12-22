@@ -14,3 +14,6 @@ Employee::Employee(int id, string fName, string mInit, string lName, long ssn, s
     SuperSSN = superSSN;
     DNO = dno;
 }
+int Employee::GetId(){
+    return Id;
+}

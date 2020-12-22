@@ -15,5 +15,6 @@ class Employee{
 public:
     Employee();
     Employee(int id, string fName, string mInit, string lName, long ssn, string bDate, string address, char sex, int salary, long superSSN, int dno);
+    int GetId();
 };
 #endif
