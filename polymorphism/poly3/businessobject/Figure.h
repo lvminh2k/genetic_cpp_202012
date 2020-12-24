@@ -5,7 +5,6 @@
 using namespace std;
 class Figure{
 public:
-    Figure();
-    virtual vector<Point> PrepareDraw();
+    virtual vector<Point> PrepareDraw() = 0;
 };
 #endif
