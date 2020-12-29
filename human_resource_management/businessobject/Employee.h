@@ -16,5 +16,16 @@ public:
     Employee();
     Employee(int id, string fName, string mInit, string lName, long ssn, string bDate, string address, char sex, int salary, long superSSN, int dno);
     int GetId();
+    void SetId(int id);
+    string GetFName();
+    string GetMInit();
+    string GetLName();
+    long GetSSN();
+    string GetBDate();
+    string GetAddress();
+    char GetSex();
+    int GetSalary();
+    long GetSuperSSN();
+    int GetDNO();
 };
 #endif

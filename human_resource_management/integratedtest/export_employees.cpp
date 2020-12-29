@@ -1,6 +1,6 @@
 #include <iostream>
-#include "businessobject/Employee.h"
-#include "dataaccess/EmployeeData.h"
+#include "../businessobject/Employee.h"
+#include "../dataaccess/EmployeeData.h"
 using namespace std;
 
 int main(){
