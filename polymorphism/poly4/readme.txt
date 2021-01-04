@@ -1,0 +1,1 @@
+g++ main.cpp libs/Canvas.cpp libs/Point.cpp myui/MyCanvas.cpp businessobject/Point2D.cpp businessobject/Figure.cpp businessobject/Rectangle.cpp businessobject/Triangle.cpp -o main.exe
