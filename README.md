@@ -23,3 +23,5 @@ https://drive.google.com/file/d/1QAKvLlx79Ta2uPNpT8wPt5EqS9KQyCbg/view?usp=shari
 https://drive.google.com/file/d/1TAZcvbsNVJGAp7emWOsCIacWOw7ek66S/view?usp=sharing
 ### Variable pointer reference
 https://cpp.daynhauhoc.com/8/0-con-tr/
+### Coding pattern in C++
+https://cppdeveloper.com/design-patterns/design-patterns-1-design-patterns-la-gi/
